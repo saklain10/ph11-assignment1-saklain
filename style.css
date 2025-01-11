@@ -1,5 +1,10 @@
+
 @import url('https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
 
+
+body{
+    font-family: "Work Sans", serif;
+}
 .whole-bg{
     background-color: #F5F5F5;
 }
@@ -306,6 +311,7 @@ tr{
     padding: 40px 50px;
     background-color: #C6E4D6;
     border-radius: 20px;
+    margin-bottom: 80px;
 }
 
 /* subscribe */
@@ -340,3 +346,19 @@ tr{
 .sub-but:hover {
     background-color: #c54404; 
 }
+
+.footerr{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+#younus-sir{
+    background-color: rgb(176, 8, 8);
+    margin-top: 80px;
+}
+
+
+
+
